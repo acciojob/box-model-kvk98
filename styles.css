@@ -11,30 +11,27 @@
 	margin:auto;
 }
 
-.circle1 {
+.green {
 	background-color:green;
 	border-radius: 50%;
 	width:100px;
 	height:100px;
-	border: 1px solid black;
 	display: inline-block;
 	margin:auto;
 }
-.circle2 {
+.yellow {
 	background-color:yellow;
 	border-radius: 50%;
 	width:100px;
 	height:100px;
-	border: 1px solid black;
 	display: inline-block;
 	margin:auto;
 }
-.circle3 {
+.red {
 	background-color:red;
 	border-radius: 50%;
 	width:100px;
 	height:100px;
-	border: 1px solid black;
 	display: inline-block;
 	margin:auto;
 }
